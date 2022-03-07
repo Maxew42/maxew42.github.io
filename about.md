@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello,
+I'm Maximilien, a french engineering student from France. My interest are in computer vision, photography and hiking, you will find a few post about that on this website. 
 
-### More Information
+Feel free to contact me on Twitter.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Enjoy
