@@ -16,5 +16,4 @@ I believe in efficient reading, our attention span is sadly not at it's greatest
   <summary> What's inside ?</summary>
 $$e^{i\pi}+1=0$$
 </details>
-
-In the same trimming effort, I created a glossary pages to centralize all the reccurent definitions that I will be using thought my posts.
+In the same effort to prune the content, I created a glossary page to centralize all the recurring definitions I will use in my articles.
