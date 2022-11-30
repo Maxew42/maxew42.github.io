@@ -8,7 +8,5 @@ tent1
 ___
 
 tent2
-============
 
 ## Just a title here
-============
