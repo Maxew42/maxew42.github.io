@@ -84,7 +84,7 @@ Two days to solve a real company use-case using the Power Plateform. Thirty team
 
 ---
 
-**Printemps des entreprenneurs 2021 @Efrei Paris** Paris, France *06/2022*
+**Printemps des entrepreneurs 2021 @Efrei Paris** Paris, France *06/2022*
 
 Startup concept pitch to enter the Efrei Paris incubator.
 
