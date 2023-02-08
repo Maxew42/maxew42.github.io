@@ -21,7 +21,7 @@ In the same effort to prune the content, I will soon create a glossary page to c
   
   
 ----
-🇫🇷
+
   
 ## Hire Me !
 
