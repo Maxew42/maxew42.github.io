@@ -23,8 +23,11 @@ The spectacular successes of Deep Learning make it appear to many as a Swiss Arm
 
 # Très courte histoire du Deep Learning
 
-Familiar or not with IT news, you have certainly heard of Deep Learning, a branch of Machine Learning focusing on the study of Artificial Neural Networks (ANNs). It concentrates a phenomenal amount of research. Nearly 16,000 articles containing the keyword were published in 2022 on [arXiv.org](https://arxiv.org/), a figure in sharp increase every year. This enthusiasm, which is far from being confined to the laboratories, is justified by impressive results in various applications: computer vision, natural language processing, speech recognition, etc. The hopes resting on this relatively young field are therefore immense which naturally leads to sometimes overly enthusiastic, even dubious promises.
+Familiar or not with IT news, you have certainly heard of Deep Learning, a branch of Machine Learning focusing on the study of Artificial Neural Networks (ANNs). It concentrates a phenomenal amount of research. Nearly 16,000 articles containing the keyword were published in 2022 on [arXiv.org](https://arxiv.org/), a figure in sharp increase every year. This enthusiasm, which is far from being confined to the laboratories, is justified by impressive results in various applications: computer vision, natural language processing, speech recognition, etc. The hopes resting on this relatively young field are therefore immense, which naturally leads to sometimes overly enthusiastic, even dubious promises.
 {: .text-justify}
+
+Indeed, the spectacular responses of chatGPT and the wonderful images of Dall-E, MidJourney, and other generative networks hide the difficulties encountered today by research in Deep Learning. ChatGPT writes poetry but fails to calculate a simple GCD or to perform an addition (even though it performs several billion to give you this incorrect answer). Its absence of "common sense" causes it to state with the greatest confidence nonsensical facts. Such examples, often quite comical, abound on social networks and this lack of robustness observation extends to the entire field. Give a guitar to a monkey, it will be recognized as a human being by a [state-of-the-art model](https://arxiv.org/pdf/1711.04451.pdf), see Figure 1.
+
 
 En effet, les réponses spectaculaires de chatGPT et les merveilleuses images des Dall-E, MidJourney, et autres réseaux génératifs cachent les difficultés que rencontrent aujourd'hui la recherche en Deep Learning. ChatGPT écrit de la poésie mais ne parvient pas à calculer un simple PGCD ou à réaliser une addition (alors même qu'il en effectue plusieurs milliards pour vous donner cette réponse incorrecte). Son absence de "bon sens" lui fait énoncer avec la plus grande confiance des faits insensés. De tels exemples, souvent assez comiques, pullulent sur les réseaux sociaux et ce constat de manque de robustesse s'étend à l'ensemble du domaine. Donnez une guitare à singe, il sera reconnu comme un être humain par un [modèle state of the art](https://arxiv.org/pdf/1711.04451.pdf), cf. Figure 1.
 
@@ -55,7 +58,7 @@ Un effet amusant de l'invariance par translation des CNNs est que la position sp
 ***Figure 2 :** Pour un CNN, un visage n'est finalement qu'une "bouche, un nez, deux yeux et une ellipse"*
 
   
-## Le problème des données
+# Le problème des données
 
 Au-delà du problème d'architecture et d'entrainement, la forme des données a aussi son importance. Notre corps capte l'information dans un format peut être plus adapté au traitement par des neurones que les données numérisées que nous utilisons aujourd'hui pour entrainer nos ANNs.
 
@@ -69,7 +72,7 @@ La question de la multimodalité des données, i.e., de sa diversité de formes,
 
 Ces questions rejoignent le problème, bien antérieur au Deep Learning, de la possibilité d'exprimer le large éventail de notre perception dans une modalité unique, celle du langage. C'est une question philosophique fondamentale, qui dans le cadre du Deep Learning nous amène naturellement à parler des modèles de langage.
 
-## Modèles de langage : Scale is all you need ?
+# Modèles de langage : Scale is all you need ?
 
 ChatGPT, développé par OpenAI, le chatbot grand public le plus abouti à ce jour ne cesse de faire l'actualité. Il est l'apogé publique actuelle, et qui sera vraisemblablement vite dépassé, d'une course aux modèles de langages toujours plus grands et entrainés sur des volumes de données de plus en plus gigantesques. Cette course part du constat que simplement augmenter la taille des modèles et de leur dataset d'entrainement leur permet d'acquérir de nouvelles compétences, e.g., traduction, résumé, mathématiques basique, pour lesquels ils n'ont pourtant pas reçu d'entrainements spécifiques.
 Cette propriété est très encourageante, il suffirait donc de disposer d'une très grande capacité de calculs et de beaucoup de données pour parvenir à la fameuse Artificial General Intelligence (AGI). D'autant plus que, bien que pas strictement comparables, le nombre de paramètres des modèles actuels n'est plus si loin du nombre de synapses du cerveau humain, à un bien mince facteur $10^3$ près.
@@ -78,7 +81,7 @@ Il faut toutefois nuancer ce propos. L'expérience actuelle montre que ces modè
 
 >**"La pensée demeure incommensurable avec le langage**." -Bergson
 
-### Doit-on rester proche du cerveau biologique ?
+# Doit-on rester proche du cerveau biologique ?
 
 Une question légitime est celle de la nécessité de rester proche du modèle du cerveau. Après tout, les modèles les plus performants en reconnaissance d'images s'éloignent de plus en plus du comportement du cerveau sans cesser de progresser pour autant, comme en témoigne l'évolution récente du *Brain Score*, visible dans la Figure 3.
 

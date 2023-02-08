@@ -54,7 +54,7 @@ Un effet amusant de l'invariance par translation des CNNs est que la position sp
 ***Figure 2 :** Pour un CNN, un visage n'est finalement qu'une "bouche, un nez, deux yeux et une ellipse"*
 
   
-## Le problème des données
+# Le problème des données
 
 Au-delà du problème d'architecture et d'entrainement, la forme des données a aussi son importance. Notre corps capte l'information dans un format peut être plus adapté au traitement par des neurones que les données numérisées que nous utilisons aujourd'hui pour entrainer nos ANNs.
 
@@ -68,7 +68,7 @@ La question de la multimodalité des données, i.e., de sa diversité de formes,
 
 Ces questions rejoignent le problème, bien antérieur au Deep Learning, de la possibilité d'exprimer le large éventail de notre perception dans une modalité unique, celle du langage. C'est une question philosophique fondamentale, qui dans le cadre du Deep Learning nous amène naturellement à parler des modèles de langage.
 
-## Modèles de langage : Scale is all you need ?
+# Modèles de langage : Scale is all you need ?
 
 ChatGPT, développé par OpenAI, le chatbot grand public le plus abouti à ce jour ne cesse de faire l'actualité. Il est l'apogé publique actuelle, et qui sera vraisemblablement vite dépassé, d'une course aux modèles de langages toujours plus grands et entrainés sur des volumes de données de plus en plus gigantesques. Cette course part du constat que simplement augmenter la taille des modèles et de leur dataset d'entrainement leur permet d'acquérir de nouvelles compétences, e.g., traduction, résumé, mathématiques basique, pour lesquels ils n'ont pourtant pas reçu d'entrainements spécifiques.
 Cette propriété est très encourageante, il suffirait donc de disposer d'une très grande capacité de calculs et de beaucoup de données pour parvenir à la fameuse Artificial General Intelligence (AGI). D'autant plus que, bien que pas strictement comparables, le nombre de paramètres des modèles actuels n'est plus si loin du nombre de synapses du cerveau humain, à un bien mince facteur $10^3$ près.
@@ -77,7 +77,7 @@ Il faut toutefois nuancer ce propos. L'expérience actuelle montre que ces modè
 
 >**"La pensée demeure incommensurable avec le langage**." -Bergson
 
-### Doit-on rester proche du cerveau biologique ?
+# Doit-on rester proche du cerveau biologique ?
 
 Une question légitime est celle de la nécessité de rester proche du modèle du cerveau. Après tout, les modèles les plus performants en reconnaissance d'images s'éloignent de plus en plus du comportement du cerveau sans cesser de progresser pour autant, comme en témoigne l'évolution récente du *Brain Score*, visible dans la Figure 3.
 
