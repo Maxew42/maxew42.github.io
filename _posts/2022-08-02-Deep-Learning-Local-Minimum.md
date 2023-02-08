@@ -4,23 +4,26 @@ title: Le Deep Learning est-il dans un minimum local ?
 lang: fr
 ---
 
-## TL;DR
-
-<details>
-  <summary>TL;DR</summary>
-1. Malgré des progrès fulgurants, la cognition humaine/animale est encore mal comprise.
-2. Une chose est sûre, le fonctionnement des ANNs est très différent de celui des réseaux de neurones biologiques.
-3. Les modèle de langage, ChatGPT et consorts, bien que très performants et utiles, ne sont pas en eux-mêmes de futurs AGIs.
-4. Le Deep Learning est un outil de plus en plus important en neuropsychologie.
-5. Des méthodes biomimétiques (SNNs, Capsules, etc.) sont en cours de développement, mais le succés surprenant des techniques actuelles les dissimulent.
-</details>
-
 
 
 
 # Le Deep Learning est-il dans un minimum local ?
 
 Les succès spectaculaires du Deep Learning le font apparaître aux yeux de beaucoup comme un couteau suisse capable de tout. En réalité, celui-ci reste aujourd'hui un outil puissant mais hyper spécialisé. Des tâches paraissant simples ne sont pas accessibles aux modèles les plus puissants et le problème de la généralisation est encore important. Le Deep Learning est-il en train de converger vers un minimum local, loin d'une solution optimale incarnée par les réseaux de neurones biologiques ?
+
+<details>
+  <summary>TL;DR</summary>
+1. Malgré des progrès fulgurants, la cognition humaine/animale est encore mal comprise.
+
+2. Une chose est sûre, le fonctionnement des ANNs est très différent de celui des réseaux de neurones biologiques.
+
+3. Les modèle de langage, ChatGPT et consorts, bien que très performants et utiles, ne sont pas en eux-mêmes de futurs AGIs.
+
+4. Le Deep Learning est un outil de plus en plus important en neuropsychologie.
+
+5. Des méthodes biomimétiques (SNNs, Capsules, etc.) sont en cours de développement, mais le succés surprenant des techniques actuelles les dissimulent.
+</details>
+
 
 # Très courte histoire du Deep Learning
 
