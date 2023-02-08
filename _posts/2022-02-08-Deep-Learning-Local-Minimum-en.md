@@ -28,14 +28,11 @@ Familiar or not with IT news, you have certainly heard of Deep Learning, a branc
 
 Indeed, the spectacular responses of chatGPT and the wonderful images of Dall-E, MidJourney, and other generative networks hide the difficulties encountered today by research in Deep Learning. ChatGPT writes poetry but fails to calculate a simple GCD or to perform an addition (even though it performs several billion to give you this incorrect answer). Its absence of "common sense" causes it to state with the greatest confidence nonsensical facts. Such examples, often quite comical, abound on social networks and this lack of robustness observation extends to the entire field. Give a guitar to a monkey, it will be recognized as a human being by a [state-of-the-art model](https://arxiv.org/pdf/1711.04451.pdf), see Figure 1.
 
-
-En effet, les réponses spectaculaires de chatGPT et les merveilleuses images des Dall-E, MidJourney, et autres réseaux génératifs cachent les difficultés que rencontrent aujourd'hui la recherche en Deep Learning. ChatGPT écrit de la poésie mais ne parvient pas à calculer un simple PGCD ou à réaliser une addition (alors même qu'il en effectue plusieurs milliards pour vous donner cette réponse incorrecte). Son absence de "bon sens" lui fait énoncer avec la plus grande confiance des faits insensés. De tels exemples, souvent assez comiques, pullulent sur les réseaux sociaux et ce constat de manque de robustesse s'étend à l'ensemble du domaine. Donnez une guitare à singe, il sera reconnu comme un être humain par un [modèle state of the art](https://arxiv.org/pdf/1711.04451.pdf), cf. Figure 1.
-
 En dehors de leur base de données d'apprentissages, les ANNs sont bien fragiles. Et certaines tâches basiques, e.g., le calcul de PGCD, ne sont aujourd'hui même pas apprenables. Pourquoi ne pas s'inspirer du cerveau de notre singe guitariste pour pallier les faiblesses des ANNs ? Mais ceux-ci ne se comportent-t-ils pas déjà comme le cerveau biologique ?
 
 ![_config.yml]({{ site.baseurl }}/images/Pasted image 20230115201814.png)
 <!-- ![[Pasted image 20230115201814.png]] -->
-***Figure 1 :** Les motos, vélos et autre guitares ne sont pas courants dans la jungle. Sans avoir été exposé à ces cas improbables, le modèle propose une réponse reflétant une situation connue du jeu de données d'entrainement, le singe devient une personne, la guitare un oiseau.*
+***Figure 1:** Bikes, motorcycles, and guitars are not common in the jungle. Without being exposed to these unlikely cases, the model provides a response reflecting a familiar situation from the training data set, the monkey becomes a person, the guitar a bird.*
 
 # Réseaux de Neurones : le singe face au silicone
 
