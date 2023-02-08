@@ -5,23 +5,20 @@ lang: fr
 ---
 
 
-
-
-# Le Deep Learning est-il dans un minimum local ?
-
 Les succès spectaculaires du Deep Learning le font apparaître aux yeux de beaucoup comme un couteau suisse capable de tout. En réalité, celui-ci reste aujourd'hui un outil puissant mais hyper spécialisé. Des tâches paraissant simples ne sont pas accessibles aux modèles les plus puissants et le problème de la généralisation est encore important. Le Deep Learning est-il en train de converger vers un minimum local, loin d'une solution optimale incarnée par les réseaux de neurones biologiques ?
 
 <details>
   <summary>TL;DR</summary>
-1. Malgré des progrès fulgurants, la cognition humaine/animale est encore mal comprise.
+1. Malgré des progrès fulgurants, la cognition humaine/animale est encore mal comprise.  
 
-2. Une chose est sûre, le fonctionnement des ANNs est très différent de celui des réseaux de neurones biologiques.
+2. Une chose est sûre, le fonctionnement des ANNs est très différent de celui des réseaux de neurones biologiques.  
 
-3. Les modèle de langage, ChatGPT et consorts, bien que très performants et utiles, ne sont pas en eux-mêmes de futurs AGIs.
+3. Les modèle de langage, ChatGPT et consorts, bien que très performants et utiles, ne sont pas en eux-mêmes de futurs AGIs.  
 
-4. Le Deep Learning est un outil de plus en plus important en neuropsychologie.
+4. Le Deep Learning est un outil de plus en plus important en neuropsychologie.  
 
-5. Des méthodes biomimétiques (SNNs, Capsules, etc.) sont en cours de développement, mais le succés surprenant des techniques actuelles les dissimulent.
+
+5. Des méthodes biomimétiques (SNNs, Capsules, etc.) sont en cours de développement, mais le succés surprenant des techniques actuelles les dissimulent.  
 </details>
 
 
@@ -53,7 +50,8 @@ Les Convolutional Neural Networks (CNNs), pierre angulaire de la vision par ordi
 
 Un effet amusant de l'invariance par translation des CNNs est que la position spatiale des composants d'un objet à reconnaître entre peu en compte. Ainsi les deux visages de la Figure 2 sont quasi-identiques de leur point de vue.
 
-![[Pasted image 20230114112050.png]]
+
+![_config.yml]({{ site.baseurl }}/images/Pasted image 20230114112050.png)
 ***Figure 2 :** Pour un CNN, un visage n'est finalement qu'une "bouche, un nez, deux yeux et une ellipse"*
 
   
@@ -80,8 +78,7 @@ Il faut toutefois nuancer ce propos. L'expérience actuelle montre que ces modè
 
 Une question légitime est celle de la nécessité de rester proche du modèle du cerveau. Après tout, les modèles les plus performants en reconnaissance d'images s'éloignent de plus en plus du comportement du cerveau sans cesser de progresser pour autant, comme en témoigne l'évolution récente du *Brain Score*, visible dans la Figure 3.
 
-![[Pasted image 20230114133318.png | 600 ]]
-
+![_config.yml]({{ site.baseurl }}/images/Pasted image 20230114133318.png)
 ***Figure 3 :** Le Brain Score est une mesure de la proximité entre la réponse d'un ANN et celle du cerveau du singe macaque. Il est ici comparé à la performance (accuracy) sur le dataset de référence ImageNet.*
 
 De plus, l'émergence de techniques *Few-shot*, i.e, apprendre avec très peu d'exemples, remet en question la nécessité d'un volume considérable de données pour l'entrainement des ANNs.
