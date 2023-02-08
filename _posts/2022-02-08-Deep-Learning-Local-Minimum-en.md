@@ -5,7 +5,7 @@ lang: en
 ---
 
 
-The spectacular successes of Deep Learning make it appear to many as a Swiss Army knife capable of everything. In reality, it remains today a powerful but highly specialized tool. Simple seeming tasks are not accessible to the most powerful models and the problem of generalization is still significant. Is Deep Learning converging towards a local minimum, far from an optimal solution embodied by biological neural networks?
+The spectacular success of Deep Learning makes it appear to many as a Swiss Army knife capable of anything. In reality, it remains a powerful but highly specialized tool. Seemingly simple tasks are not accessible to the most powerful models and the problem of generalization is still significant. Is Deep Learning converging towards a local minimum, far from an optimal solution embodied by biological neural networks?
 
 
 <details>
@@ -76,7 +76,7 @@ This property is very encouraging, as it would be enough to have a very large ca
 However, this has to be tempered. Current experience shows that these models do not perform so well in all domains. Language models stumble on simple tasks. Mathematics, for example, is challenging, as is reasoning involving physics or [spaciality](https://twitter.com/TomerUllman/status/1599767597653729280?s=20&t=XqaRcV1lBQxGeabjs0izvg). The latter in particular are not well represented by text. In fact, language alone is not capable of producing "common sense" and the ability to generalize, in that it is a medium of [lacunar and ambiguous](https://www.noemamag.com/ai-and-the-limits-of-language)  information. Approaches based on symbolic algorithms or using simplified models of the world aim to overcome these weaknesses, with or without the help of Deep Learning. But these approaches are not without difficulties and are so far rather disappointing
 
 
->**"Thought remains beyond the reach of language**." -Bergson 
+>**"Thought remains beyond the reach of language**." -Bergson (Poorly translated by yours truly)
 
 # Should we keep close to the biological brain?
 
