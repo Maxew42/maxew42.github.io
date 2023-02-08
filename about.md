@@ -20,18 +20,20 @@ In the same effort to prune the content, I will soon create a glossary page to c
   
   
   
-
+----
+🇫🇷
+  
 ## Hire Me !
 
 
 Hi there 👋
 
- I am currently not available for full-time jobs, but I am open for discussion. In particular, I would like to spend more time teaching (general AI, computer vision or mathematics). [Hit me up](https://www.linkedin.com/in/maximilien-dufau) if you have something in mind.
+ I am currently not available for full-time jobs, but I am open for discussion. In particular, I would like to spend more time teaching (general AI, computer vision or mathematics). So [hit me up](https://www.linkedin.com/in/maximilien-dufau) if you have something in mind.
 
 # 👨‍🏫 **Teaching**
 **AI Workshop instructor @EM Lyon** *11/2022*
 
-Animating a two hours workshop on AI at the EM Lyon Maker's lab. The participants were guided in the creation of an [interactive app](https://editor.p5js.org/Maxew/sketches/y5JLdjh_g) introducing computer vision.
+Animating workshops on AI at the EM Lyon Maker's lab. The participants were guided in the creation of an [interactive app](https://editor.p5js.org/Maxew/sketches/y5JLdjh_g) introducing computer vision.
 
 *General AI, Javascript, P5.JS, ml5*
 
