@@ -9,16 +9,14 @@ Les succès spectaculaires du Deep Learning le font apparaître aux yeux de beau
 
 <details>
   <summary>TL;DR</summary>
-1. Malgré des progrès fulgurants, la cognition humaine/animale est encore mal comprise.  
 
-2. Une chose est sûre, le fonctionnement des ANNs est très différent de celui des réseaux de neurones biologiques.  
-
-3. Les modèle de langage, ChatGPT et consorts, bien que très performants et utiles, ne sont pas en eux-mêmes de futurs AGIs.  
-
-4. Le Deep Learning est un outil de plus en plus important en neuropsychologie.  
-
-
-5. Des méthodes biomimétiques (SNNs, Capsules, etc.) sont en cours de développement, mais le succés surprenant des techniques actuelles les dissimulent.  
+<ol>
+  <li>Malgré des progrès fulgurants, la cognition humaine/animale est encore mal comprise. </li>
+  <li>Une chose est sûre, le fonctionnement des ANNs est très différent de celui des réseaux de neurones biologiques.  </li>
+  <li>Les modèle de langage, ChatGPT et consorts, bien que très performants et utiles, ne sont pas en eux-mêmes de futurs AGIs. </li>
+  <li>Le Deep Learning est un outil de plus en plus important en neuropsychologie. </li>
+  <li>Des méthodes biomimétiques (SNNs, Capsules, etc.) sont en cours de développement, mais le succés surprenant des techniques actuelles les dissimulent.</li>
+</ol>
 </details>
 
 
