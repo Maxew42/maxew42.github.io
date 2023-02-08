@@ -33,7 +33,8 @@ En effet, les réponses spectaculaires de chatGPT et les merveilleuses images de
 
 En dehors de leur base de données d'apprentissages, les ANNs sont bien fragiles. Et certaines tâches basiques, e.g., le calcul de PGCD, ne sont aujourd'hui même pas apprenables. Pourquoi ne pas s'inspirer du cerveau de notre singe guitariste pour pallier les faiblesses des ANNs ? Mais ceux-ci ne se comportent-t-ils pas déjà comme le cerveau biologique ?
 
-![[Pasted image 20230115201814.png]]
+![_config.yml]({{ site.baseurl }}/images/Pasted image 20230115201814.png)
+<!-- ![[Pasted image 20230115201814.png]] -->
 ***Figure 1 :** Les motos, vélos et autre guitares ne sont pas courants dans la jungle. Sans avoir été exposé à ces cas improbables, le modèle propose une réponse reflétant une situation connue du jeu de données d'entrainement, le singe devient une personne, la guitare un oiseau.
 
 # Réseaux de Neurones : le singe face au silicone
