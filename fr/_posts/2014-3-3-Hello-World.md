@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: French Version
 lang: fr
 lang-ref: test-lang
 ---
