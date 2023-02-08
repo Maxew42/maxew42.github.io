@@ -75,7 +75,7 @@ Cette propriété est très encourageante, il suffirait donc de disposer d'une t
   
 Il faut toutefois nuancer ce propos. L'expérience actuelle montre que ces modèles ne progressent pas si bien que ça dans tous les domaines. Les modèles de langage butent sur des tâches simples. Les mathématiques leur posent par exemple problème, ainsi que les raisonnements impliquant une notion de physique ou de [spacialité](https://twitter.com/TomerUllman/status/1599767597653729280?s=20&t=XqaRcV1lBQxGeabjs0izvg). Ces derniers en particulier ne sont pas bien représentés par du texte. En réalité, le langage n'est pas capable, seul, de produire du "bon sens" et la capacité à généraliser, en cela qu'il est un support d'information [lacunaire et ambigu](https://www.noemamag.com/ai-and-the-limits-of-language](https://www.noemamag.com/ai-and-the-limits-of-language). Des approches basées sur des algorithmes symboliques ou utilisant des modèles simplifiés du monde souhaitent pallier ces faiblesses, à l'aide ou non du Deep Learning. Mais ces approches ne sont pas sans difficulté et sont à ce jour plutôt décevantes.
 
->**"La pensée demeure incommensurable avec le langage**." - Bergson
+>**"La pensée demeure incommensurable avec le langage**." -Bergson
 
 ### Doit-on rester proche du cerveau biologique ?
 
@@ -89,7 +89,7 @@ De plus, l'émergence de techniques *Few-shot*, i.e, apprendre avec très peu d'
 Si ça marche à quoi bon à tout prix chercher à imiter ce que nous ne comprenons même pas ? Pour autant il faut bien admettre que les victoires du Deep Learning ont bien souvent une part plus ou moins importante de biomimétisme, e.g. le neurone artificiel, les CNNs, le mécanisme d'attention, le dropout, etc. Ces tentatives de coller au fonctionnement du cerveau ne sont donc pas stériles, mais pâtissent d'un manque de compréhension de la cognition humaine, et aussi peut-être d'un intérêt insuffisant des chercheurs en Deep Learning pour cette matière pourtant jumelle à la leur.
 
   
-> **Quand le Deep Learning aide à comprendre le cerveau**
+> **Quand le Deep Learning aide à comprendre le cerveau**  
 > Le Deep Learning a encore beaucoup à tirer de la compréhension du cerveau humain. Mais le contraire est aussi vrai. Dans cet [article](https://www.nature.com/articles/s41467-021-26751-5) paru dans Nature, un ANN ($\beta$-VAE) est utilisé pour étudier l'organisation des neurones codant pour les visages, i.e., la représentation neuronale des visages, chez le singe macaque. (Notez l'existence d'un "neurone de la frange" !). Le résultat ? Il est possible de reconstruire le visage vu par le singe en lisant sa réponse neuronale. Pas si loin de la science-fiction.
 > Il est remarquable d'obtenir à l'aide d'un ANN des résultats similaires à ceux d'un réseau de neurones biologique alors que, comme on l'a vu, ils ne partagent finalement que peu de caractéristiques. Les études mêlant ces approches sont d'ailleurs de plus en plus nombreuses.
 
