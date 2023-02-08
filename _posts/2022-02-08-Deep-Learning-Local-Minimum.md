@@ -8,7 +8,7 @@ lang: fr
 Les succès spectaculaires du Deep Learning le font apparaître aux yeux de beaucoup comme un couteau suisse capable de tout. En réalité, celui-ci reste aujourd'hui un outil puissant mais hyper spécialisé. Des tâches paraissant simples ne sont pas accessibles aux modèles les plus puissants et le problème de la généralisation est encore important. Le Deep Learning est-il en train de converger vers un minimum local, loin d'une solution optimale incarnée par les réseaux de neurones biologiques ?
 
 <details>
-  <summary>TL;DR</summary>
+  <summary><b> TL;DR</b> </summary>
 
 <ol>
   <li>Malgré des progrès fulgurants, la cognition humaine/animale est encore mal comprise. </li>
@@ -31,7 +31,7 @@ En dehors de leur base de données d'apprentissages, les ANNs sont bien fragiles
 
 ![_config.yml]({{ site.baseurl }}/images/Pasted image 20230115201814.png)
 <!-- ![[Pasted image 20230115201814.png]] -->
-***Figure 1 :** Les motos, vélos et autre guitares ne sont pas courants dans la jungle. Sans avoir été exposé à ces cas improbables, le modèle propose une réponse reflétant une situation connue du jeu de données d'entrainement, le singe devient une personne, la guitare un oiseau.
+***Figure 1 :** Les motos, vélos et autre guitares ne sont pas courants dans la jungle. Sans avoir été exposé à ces cas improbables, le modèle propose une réponse reflétant une situation connue du jeu de données d'entrainement, le singe devient une personne, la guitare un oiseau.*
 
 # Réseaux de Neurones : le singe face au silicone
 
@@ -58,7 +58,11 @@ Un effet amusant de l'invariance par translation des CNNs est que la position sp
 
 Au-delà du problème d'architecture et d'entrainement, la forme des données a aussi son importance. Notre corps capte l'information dans un format peut être plus adapté au traitement par des neurones que les données numérisées que nous utilisons aujourd'hui pour entrainer nos ANNs.
 
+#### Des données biomimétiques
+
 Par exemple, notre vision n'est pas basée, comme celle des ANNs, sur des tableaux de pixels géants (des images). En réalité, notre rétine est stimulée à chaque instant par des photons de façon asynchrone. Du point de vue de la perception biologique les "images" n'existent pas. Ce type de flux peut être obtenu à l'aide d'une [caméra neuromorphique](https://en.wikipedia.org/wiki/Event_camera), ou *event-based camera*. Celle-ci remplace le tableau de pixels par une série de couples $(timestamp, intensity)$ captés asynchroniquement à chaque changement de valeur du pixel considéré. Ce type de capteurs présente d'importants avantages en terme de réduction du volume de données, mais aussi de framerate et de plage dynamique. Toutefois, tout l'édifice technique de la vision par ordinateur se base sur l'analyse de tableaux de pixels. Il faut dès lors innover pour pouvoir appliquer la puissance du Deep Learning à ce type de données. Les [Spiking Neural Networks](https://hal.science/hal-03250505/document) (SNNs), fonctionnant à l'aide stimuli plus ou moins fréquents et largement inspirés du cerveau humain sont les candidats idéaux pour analyser ces nouvelles données.
+
+#### Des données multimodales
 
 La question de la multimodalité des données, i.e., de sa diversité de formes, est aussi majeure. Il est démontré que dans le cerveau humain un même neurone peut réagir à des perceptions en apparence très différentes. Ainsi, nous disposerions tous d'un [neurone Luke Skywalker](https://www.nature.com/articles/ncomms13408), capable de réagir à l'image, au nom prononcé ou écrit de l'apprenti jedi. Un autre exemple : en visioconférence il est plus simple et agréable de communiquer avec quelqu'un ayant une webcam allumée. Le langage corporel, le feedback, etc jouent un rôle crucial dans la communication entre humains. Un ANN peut-il nous comprendre sans y avoir accès ? Ces réseaux de neurones peuvent-ils anticiper la gravité sans avoir chuté, ou tout du moins expérimenté virtuellement une chute. Peuvent-ils imiter Beethoven en lisant simplement ses partitions ?
 
