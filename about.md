@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Maximilien, a french engineering student. I am mostly interested in computer vision and photography, so that is what you will find on this blog.
+I'm Maximilien Dufau, a french engineering student. I am mostly interested in computer vision and photography, so that is what you will find on this blog.
 Feel free to contact me on Twitter if you want to chat about ML.
 Enjoy
 
