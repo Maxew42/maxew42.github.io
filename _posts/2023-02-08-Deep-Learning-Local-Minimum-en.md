@@ -35,7 +35,7 @@ Outside of their training set, ANNs are quite fragile. And some basic tasks, e.g
 
 # Neural Networks: Monkey & Silicone
 
-Human and animal cognition is still poorly understood. However, no electrodes are needed to notice the gulf that exists today between human learning and that of an ANN. A child is quickly able to differentiate between a dog and a cat or to predict the trajectory of a toy thrown in the air. It takes an ANN, even a basic one, hundreds of examples to achieve the same results. In the supervised learning paradigm, these examples must be labeled, thus incurring significant costs. Other paradigms; Reinforcement Learning, Self-supervised Learning, do not require this labeling, but are not more sample-efficient. So are ANNs very different from our brains?
+Human and animal cognition is still poorly understood. However, no electrodes are needed to see the gap that exists today between human and ANN learning. A child is quickly able to differentiate between a dog and a cat or to predict the trajectory of a toy thrown in the air. It takes an ANN, even a basic one, hundreds of examples to achieve the same results. In the supervised learning paradigm, these examples must be labeled, thus incurring significant costs. Other paradigms; Reinforcement Learning, Self-supervised Learning, do not require this labeling, but are not more sample-efficient. So are ANNs very different from our brains?
 
 A closer look at the functioning of biological neural networks confirms this discrepancy. Here are some points of notable divergence.
 
