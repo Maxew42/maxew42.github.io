@@ -269,8 +269,13 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
-    margin-right: 10%;
   }
+  .read-more-fr {
+    text-transform: uppercase;
+    font-size: 15px;
+    float: right;
+  }
+  
 }
 
 .wrapper-footer {
