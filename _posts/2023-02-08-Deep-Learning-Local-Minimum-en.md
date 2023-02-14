@@ -2,7 +2,7 @@
 layout: post
 title: Is Deep Learning in a local minimum ?
 lang: en
-absoluteurl: Deep-Learning-Local-Minimum
+ref: Deep-Learning-Local-Minimum
 ---
 
 
